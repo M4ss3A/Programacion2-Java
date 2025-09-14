@@ -1,6 +1,6 @@
  **PROGRAMACION 2** 
         **UTN**  
-⚙️**Language:** JAVA
+⚙️**Language:** JAVA ⚙
 
 📌Este repositorio corresponde al segundo cuatrimestre de Programacion.
 
