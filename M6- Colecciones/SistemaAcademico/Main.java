@@ -2,8 +2,6 @@ package tp6.pkg3;
 
 
 public class Main {
-
-    
     public static void main(String[] args) {
         // Crea universidad
         Universidad uni = new Universidad("UTN");
@@ -67,7 +65,5 @@ public class Main {
         uni.listarCursos();
         System.out.println("\n=== Cursos de Ana (P001) luego de eliminar C101 ===");
         p1.listarCursos();
-
-        System.out.println("\nFin de la demo.");
     }
 }
