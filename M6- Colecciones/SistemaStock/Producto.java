@@ -61,7 +61,7 @@ public class Producto {
     
 
    public void mostrarInfo(){
-       System.out.println("Producto ");
+       System.out.println("\nProducto ");
        System.out.println("id= " + id);
        System.out.println("Nombre= " + nombre);
        System.out.println("Precio= " + precio);
